@@ -1,6 +1,6 @@
 # Olá, eu sou o Josias! 👋
 
-Sou um entusiasta da programação com foco em aprender e crescer nas áreas de **Java**, **C**, **Python**, **Hyperautomação** e **RPA (Automação Robótica de Processos)**. Também trabalho com **BotCity**, uma plataforma poderosa para automação de bots. Estou sempre buscando novos conhecimentos e desafios para me tornar um desenvolvedor versátil e preparado para o mercado.
+Sou um entusiasta da programação com foco em aprender e crescer nas áreas de **Java**, **Python**, **Hyperautomação** e **RPA (Automação Robótica de Processos)**. Também praticando **BotCity**, uma plataforma poderosa para automação de bots. Estou sempre buscando novos conhecimentos e desafios para me tornar um desenvolvedor versátil e preparado para o mercado.
 
 ---
 
