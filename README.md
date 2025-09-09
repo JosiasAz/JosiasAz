@@ -1,6 +1,6 @@
-# Olá, eu sou o Josias! 👋
+# Prazer, sou Josias! 👋
 
-Sou um entusiasta da programação com foco em aprender e crescer nas áreas envolvendo **Java**, **Python** e **RPA (Automação Robótica de Processos)**. Também praticando **BotCity**, uma plataforma poderosa para automação de bots. Estou sempre buscando novos conhecimentos e desafios para me tornar um desenvolvedor versátil e preparado para o mercado.
+Sou um desenvolvedor em formação, com experiência em Python aplicado à RPA (Robotic Process Automation) em ambientes industriais, utilizando Java para aprofundar conceitos de POO, Angular para criação de interfaces modernas e FastAPI para back-ends ágeis e escaláveis. Tenho domínio em versionamento de código (Git) e aplico criatividade em protótipos no Figma, unindo técnica e design para transformar ideias em soluções funcionais e inovadoras.
 
 ---
 
@@ -8,7 +8,7 @@ Sou um entusiasta da programação com foco em aprender e crescer nas áreas env
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,discord,git,github,gitlab,vscode,figma,angular,react" />
+    <img src="https://skillicons.dev/icons?i=java,py,discord,git,github,gitlab,vscode,figma,angular,react,fastapi" />
   </a>
 </p>
 
