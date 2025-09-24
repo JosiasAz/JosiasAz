@@ -1,34 +1,32 @@
-# Prazer, sou Josias! 👋
+# 👋 Prazer, sou Josias!  
 
-Sou um desenvolvedor em formação, com experiência em Python aplicado à RPA (Robotic Process Automation) em ambientes industriais, utilizando Java para aprofundar conceitos de POO, Angular para criação de interfaces modernas e FastAPI para back-ends ágeis e escaláveis. Tenho domínio em versionamento de código (Git) e aplico criatividade em protótipos no Figma, unindo técnica e design para transformar ideias em soluções funcionais e inovadoras.
+Sou um desenvolvedor em formação apaixonado por transformar ideias em soluções tecnológicas. Tenho experiência prática em **Python aplicado à RPA (Robotic Process Automation)** em ambientes industriais, além de explorar **Java** para fortalecer conceitos de **Programação Orientada a Objetos (POO)**. No front-end, utilizo **Angular** para criar interfaces modernas e funcionais, e no back-end aplico **FastAPI** para construir APIs ágeis e escaláveis.  
+
+Possuo domínio em **versionamento de código (Git/GitHub/GitLab)** e utilizo ferramentas como **Figma** para alinhar técnica e design, garantindo que cada projeto seja não só eficiente, mas também visualmente agradável e inovador.  
 
 ---
 
-## 🛠 Tecnologias e Ferramentas que utilizo
+## 🛠️ Tecnologias e Ferramentas  
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,discord,git,github,gitlab,vscode,figma,angular,react,fastapi" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,fastapi,javascript,html,css,angular,react,figma,discord,git,github,gitlab,vscode" />
   </a>
-</p>
-
-
----
-
-## 🎯 Meus objetivos
-
-
-- Aprimorar habilidades em programação orientada a objetos e estruturas de dados.  
-- Desenvolver projetos práticos e contribuir para a comunidade open source.  
-- Explorar automação avançada, RPA e ferramentas como BotCity para otimizar processos e aumentar a eficiência.  
-- Tornar-me um profissional completo e preparado para o mercado de tecnologia.
+</p>  
 
 ---
 
-Se quiser acompanhar meu progresso e projetos, fique à vontade para me seguir!  
-Vamos codar juntos 🚀
+## 🎯 Objetivos  
+
+- Aprofundar conhecimentos em **POO e estruturas de dados**.  
+- Explorar automação avançada e **RPA** com ferramentas como **BotCity** para otimizar processos.  
+- Evoluir como um profissional completo, preparado para os desafios do mercado de tecnologia.  
 
 ---
 
-> “O aprendizado nunca termina — o código está sempre evoluindo.” 💻
+✨ Se quiser acompanhar meu progresso e projetos, fique à vontade para me seguir aqui no GitHub.  
+Vamos codar juntos 🚀  
 
+---
+
+> 💡 *"O aprendizado nunca termina — o código está sempre evoluindo."*  
