@@ -10,7 +10,7 @@ Possuo domínio em **versionamento de código (Git/GitHub/GitLab)** e utilizo fe
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,fastapi,javascript,html,css,angular,react,figma,discord,git,github,gitlab,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,py,fastapi,javascript,typescript,html,css,angular,git,github,gitlab,vscode" />
   </a>
 </p>  
 
