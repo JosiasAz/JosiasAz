@@ -1,8 +1,21 @@
-# 👋 Prazer, sou Josias!  
+# Prazer, sou Josias Azevedo!
 
-Sou um desenvolvedor em formação apaixonado por transformar ideias em soluções tecnológicas. Tenho experiência prática em **Python aplicado à RPA (Robotic Process Automation)** em ambientes industriais, além de explorar **Java** para fortalecer conceitos de **Programação Orientada a Objetos (POO)**. No front-end, utilizo **Angular** para criar interfaces modernas e funcionais, e no back-end aplico **FastAPI** para construir APIs ágeis e escaláveis.  
+💻 **Desenvolvedor de Software | Python | Ciência de Dados | FastAPI | Angular | RPA | Power BI**
 
-Possuo domínio em **versionamento de código (Git/GitHub/GitLab)** e utilizo ferramentas como **Figma** para alinhar técnica e design, garantindo que cada projeto seja não só eficiente, mas também visualmente agradável e inovador.  
+Atuo com desenvolvimento de soluções tecnológicas voltadas para **automação de processos, análise de dados e aplicações web**, conectando estratégia, tecnologia e impacto real no negócio.
+
+Atualmente sou **Estagiário de Desenvolvimento em Supply Chain na LG Electronics**, trabalhando com **RPA, análise de dados e automação de processos industriais**. Também fui bolsista do **Instituto de Pesquisas Eldorado & LG AIX Academy**, onde desenvolvi projetos aplicando **Inteligência Artificial, Ciência de Dados, Desenvolvimento Web Full Stack e Hiperautomação**, utilizando a metodologia **Problem-Based Learning (PBL)** com desafios reais da indústria.
+
+Tenho experiência prática com:
+
+- 🤖 Automação Robótica de Processos (RPA)  
+- 📊 Análise e visualização de dados com Power BI  
+- 🐍 Python para dados, APIs e automações  
+- ⚡ Desenvolvimento de APIs com FastAPI  
+- 🌐 Front-end moderno com Angular + TypeScript  
+- 🔁 Versionamento e colaboração com Git/GitHub/GitLab  
+
+Meu foco é desenvolver soluções que **gerem eficiência operacional, inteligência estratégica e transformação digital**.
 
 ---
 
@@ -16,17 +29,23 @@ Possuo domínio em **versionamento de código (Git/GitHub/GitLab)** e utilizo fe
 
 ---
 
-## 🎯 Objetivos  
+## 🎯 Atualmente focado em
 
-- Aprofundar conhecimentos em **POO e estruturas de dados**.  
-- Explorar automação avançada e **RPA** com ferramentas como **BotCity** para otimizar processos.  
-- Evoluir como um profissional completo, preparado para os desafios do mercado de tecnologia.  
-
----
-
-✨ Se quiser acompanhar meu progresso e projetos, fique à vontade para me seguir aqui no GitHub.  
-Vamos codar juntos 🚀  
+- 📈 Engenharia de Dados aplicada ao negócio  
+- 🤖 Automação inteligente de processos  
+- 🧠 IA aplicada à indústria  
+- 🏗️ Arquitetura de APIs escaláveis com FastAPI  
+- 📊 Dashboards estratégicos orientados à tomada de decisão  
 
 ---
 
-> 💡 *"O aprendizado nunca termina — o código está sempre evoluindo."*  
+## 🌎 Sobre mim  
+
+Sou movido por aprendizado contínuo e desafios reais.  
+Acredito que tecnologia não é apenas código — é **impacto, eficiência e transformação**.
+
+---
+
+✨ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução aqui no GitHub.
+
+> 💡 *"Tecnologia é sobre resolver problemas reais com inteligência e propósito."*
