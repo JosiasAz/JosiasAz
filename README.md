@@ -10,7 +10,7 @@ Também fui bolsista do **Instituto de Pesquisas Eldorado & LG AIX Academy**, on
 
 ---
 
-![Snake animation](https://github.com/JosiasAz/JosiasAz/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/JosiasAz/JosiasAz/blob/main/github-contribution-grid-snake-dark.svg)
 
 ---
 
