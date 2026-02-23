@@ -14,10 +14,7 @@ Também fui bolsista do **Instituto de Pesquisas Eldorado & LG AIX Academy**, de
 
 ## 📊 GitHub em ação
 
-<p>
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JosiasAz&show_icons=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JosiasAz&layout=compact&theme=github_dark" />
-</p>
+![Metrics](https://raw.githubusercontent.com/JosiasAz/JosiasAz/main/metrics.svg)
 
 ---
 
