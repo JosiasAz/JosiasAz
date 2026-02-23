@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF66&lines=Desenvolvedor+Fullstack;FastAPI+%7C+Docker+%7C+Angular+%7C+Python;Bem-vindo+ao+meu+perfil!)
 
-💻 **Desenvolvedor de Software | Inteligência Artificial Aplicada | Automação | Ciência de Dados**
+💻 **Desenvolvedor de Software | Automação | Ciência de Dados**
 
 Atuo no desenvolvimento de **soluções tecnológicas orientadas a dados**, com foco em **automação de processos, Inteligência Artificial Aplicada e aplicações web**, conectando **tecnologia, eficiência operacional e impacto real no negócio**.
 
