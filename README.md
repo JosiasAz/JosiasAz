@@ -54,3 +54,8 @@ Sou uma pessoa **colaborativa, curiosa e comunicativa**, que valoriza muito o tr
 ✨ Fique à vontade para explorar meus projetos e acompanhar minha evolução aqui no GitHub.
 
 > 💡 *"Tecnologia é sobre resolver problemas reais com inteligência e propósito."*
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&section=footer&text=Obrigado%20por%20chegar%20até%20aqui.&fontSize=36&fontAlign=50&fontAlignY=40&color=0:00FF66,100:00CC55&fontColor=ffffff"
+/>
