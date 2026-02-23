@@ -9,7 +9,9 @@ Atualmente sou **Estagiário de Desenvolvimento em Supply Chain na LG Electronic
 Também fui bolsista do **Instituto de Pesquisas Eldorado & LG AIX Academy**, onde desenvolvi projetos aplicando **Inteligência Artificial, Ciência de Dados, Desenvolvimento Web Full Stack e Hiperautomação**, utilizando a metodologia **Problem-Based Learning (PBL)** com desafios reais da indústria.
 
 ---
+
 ![Snake animation](https://github.com/JosiasAz/JosiasAz/blob/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
