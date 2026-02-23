@@ -24,19 +24,20 @@ Também fui bolsista do **Instituto de Pesquisas Eldorado & LG AIX Academy**, de
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
 
+## Tecnologias & Ferramentas
+
 <div align="center">
 
-  <!-- Typing SVG CENTRALIZADO DE VERDADE -->
+  <!-- Typing SVG compacto -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00FF66&pause=900&center=true&vCenter=true&width=600&lines=Python;FastAPI;Docker;Angular;JavaScript;TypeScript;HTML;CSS;Git;GitHub;VS+Code"
-    alt="Tecnologias em destaque"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&color=00FF66&pause=800&center=true&vCenter=true&width=380&height=30&lines=Python;FastAPI;Docker;Angular;JavaScript;TypeScript;HTML;CSS;Git;GitHub;VS+Code"
+    alt="Tecnologias"
   />
 
-  <br/><br/>
-
-  <!-- Ícones -->
+  <!-- Ícones compactos -->
   <img
-    src="https://skillicons.dev/icons?i=python,fastapi,docker,angular,javascript,typescript,html,css,git,github,vscode"
+    src="https://skillicons.dev/icons?i=python,fastapi,docker,angular,javascript,typescript,html,css,git,github,vscode&perline=11"
+    width="800"
     alt="Tecnologias"
   />
 
