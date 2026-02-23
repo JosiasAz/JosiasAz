@@ -1,47 +1,49 @@
-# Prazer, sou Josias Azevedo!
+# 👋 Prazer, sou Josias Azevedo
 
-💻 **Desenvolvedor de Software | Inteligência Artificial Aplicada | Python | Ciência de Dados | FastAPI | Angular | RPA | Power BI**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF66&lines=Desenvolvedor+Fullstack;FastAPI+%7C+Docker+%7C+Angular+%7C+Python;Bem-vindo+ao+meu+perfil!)
 
-Atuo com desenvolvimento de soluções tecnológicas voltadas para **automação de processos, análise de dados, Inteligência Artificial Aplicada e aplicações web**, conectando estratégia, tecnologia e impacto real no negócio.
+💻 **Desenvolvedor de Software | Inteligência Artificial Aplicada | Automação | Ciência de Dados**
 
-Atualmente sou **Estagiário de Desenvolvimento em Supply Chain na LG Electronics**, trabalhando com **RPA, análise de dados e automação de processos industriais**, criando soluções que aumentam eficiência operacional e apoiam decisões orientadas a dados.
+Atuo no desenvolvimento de **soluções tecnológicas orientadas a dados**, com foco em **automação de processos, Inteligência Artificial Aplicada e aplicações web**, conectando **tecnologia, eficiência operacional e impacto real no negócio**.
 
-Também fui bolsista do **Instituto de Pesquisas Eldorado & LG AIX Academy**, onde desenvolvi projetos aplicando **Inteligência Artificial, Ciência de Dados, Desenvolvimento Web Full Stack e Hiperautomação**, utilizando a metodologia **Problem-Based Learning (PBL)** com desafios reais da indústria.
+Atualmente sou **Estagiário de Desenvolvimento em Supply Chain na LG Electronics**, onde trabalho com **RPA, análise de dados e automação de processos industriais**, criando soluções que otimizam operações e apoiam decisões estratégicas baseadas em dados.
+
+Também fui bolsista do **Instituto de Pesquisas Eldorado & LG AIX Academy**, desenvolvendo projetos com **IA, Ciência de Dados, Desenvolvimento Full Stack e Hiperautomação**, aplicando a metodologia **Problem-Based Learning (PBL)** em desafios reais da indústria.
 
 ---
+
+## 📊 GitHub em ação
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JosiasAz&show_icons=true&theme=github_dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasAz&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🐍 Atividade & Consistência
 
 ![Snake animation](https://raw.githubusercontent.com/JosiasAz/JosiasAz/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🛠️ Tecnologias & Ferramentas
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,fastapi,javascript,typescript,html,css,angular,git,github,gitlab,vscode" />
-  </a>
-</p>  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,javascript,typescript,angular,html,css,docker,git,github,gitlab,vscode" />
+</p>
 
 ---
 
-## 🎯 Atualmente focado em
+## 🌎 Sobre mim
 
-- 🤖 Engenharia de aplicações com LLMs  
-- 🔗 RAG + Embeddings + Vector Databases  
-- 📈 Engenharia de Dados aplicada ao negócio  
-- 🏗️ Arquitetura de APIs escaláveis com FastAPI  
-- 🧠 Inteligência Artificial aplicada à indústria  
+Sou movido por **aprendizado contínuo**, **desafios reais** e soluções que fazem sentido fora do código.
 
----
-
-## 🌎 Sobre mim  
-
-Sou movido por aprendizado contínuo e desafios reais.  
-Acredito que tecnologia não é apenas código — é **impacto, eficiência e transformação**.  
-Entre dados, automações e café ☕, sigo construindo soluções que fazem sentido no mundo real.
+Acredito que tecnologia não é apenas implementação — é **impacto, eficiência e transformação**.  
+Entre dados, automações e café ☕, sigo construindo soluções que resolvem problemas do mundo real.
 
 ---
 
-✨ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução aqui no GitHub.
+✨ Fique à vontade para explorar meus projetos e acompanhar minha evolução aqui no GitHub.
 
 > 💡 *"Tecnologia é sobre resolver problemas reais com inteligência e propósito."*
