@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
 
-💻 **Desenvolvedor de Software | Automação | Ciência de Dados**
+💻 Desenvolvedor de Software | Automação de Processos | APIs e Integrações
 
 Atuo no desenvolvimento de **soluções tecnológicas orientadas a dados**, com foco em **automação de processos, Inteligência Artificial Aplicada e aplicações web**, conectando **tecnologia, eficiência operacional e impacto real no negócio**.
 
