@@ -13,17 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      # Pac-Man primeiro: o snk roda em Docker como root e deixaria dist/ sem permissão de escrita
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: JosiasAz
+          games: pacman
+
       - uses: Platane/snk@v3
         with:
           github_user_name: JosiasAz
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: JosiasAz
-          games: pacman
 
       # Alterna a animação exibida no README a cada 12h: cobra, depois Pac-Man
       - name: Choose animation
