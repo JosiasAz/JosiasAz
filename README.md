@@ -18,9 +18,9 @@ Também fui bolsista do **Instituto de Pesquisas Eldorado & LG AIX Academy**, de
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
 
-## 🐍 Atividade & Consistência
+## 🎮 Atividade & Consistência
 
-![Snake animation](https://raw.githubusercontent.com/JosiasAz/JosiasAz/output/github-contribution-grid-snake-dark.svg)
+![Snake ou Pac-Man](https://raw.githubusercontent.com/JosiasAz/JosiasAz/output/game-dark.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF66"/>
 
