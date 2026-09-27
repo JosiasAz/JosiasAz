@@ -2,7 +2,7 @@ name: Generate Snake & Pac-Man
 
 on:
   schedule:
-    - cron: "0 0,12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      - uses: actions/checkout@v4
+
       # Pac-Man primeiro: o snk roda em Docker como root e deixaria dist/ sem permissão de escrita
       - uses: abozanona/pacman-contribution-graph@main
         with:
@@ -26,15 +28,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Alterna a animação exibida no README a cada 12h: cobra, depois Pac-Man
-      - name: Choose animation
+      # Junta as duas num SVG só: a cobra toca inteira, depois o Pac-Man, e repete
+      - name: Combine animations
         run: |
-          ls dist
-          if [ $(( $(date -u +%s) / 43200 % 2 )) -eq 0 ]; then
-            cp dist/github-contribution-grid-snake-dark.svg dist/game-dark.svg
-          else
-            cp dist/pacman-contribution-graph-dark.svg dist/game-dark.svg
-          fi
+          node .github/scripts/combine-games.js \
+            dist/github-contribution-grid-snake-dark.svg \
+            dist/pacman-contribution-graph-dark.svg \
+            dist/game-dark.svg
 
       - name: Push animations
         uses: crazy-max/ghaction-github-pages@v4
